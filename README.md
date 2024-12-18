@@ -1,6 +1,6 @@
 # E-commerce API
 
-Este é um projeto simples de API para gerenciar produtos em um banco de dados usando Flask e SQLite.
+Este é um projeto de API para gerenciar produtos em um banco de dados usando Flask e SQLite.
 
 ## Funcionalidades
 
